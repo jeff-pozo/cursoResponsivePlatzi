@@ -1,0 +1,17 @@
+{
+  "name": "cursoresponsivedesing",
+  "version": "1.0.0",
+  "description": "Proyecto para implementar responsive desing, mobile first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "responsive",
+    "desing",
+    "mobile",
+    "first"
+  ],
+  "author": "Jefferson Pozo <pozojefferson410@gmail.com>",
+  "license": "ISC"
+}
