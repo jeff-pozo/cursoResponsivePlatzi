@@ -138,7 +138,7 @@ main {
   overflow-x: scroll;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
-  margin: 0 15px;
+  margin: 0 30px;
 }
 .main-currency-table,
 .main-commisions-table {
@@ -146,7 +146,7 @@ main {
   min-width: 235px;
   max-width: 500px;
   height: 360px;
-  margin: 0 30px;
+  margin: 0 40px;
   font-family: "Inter," sans-serif;
 }
 .main-currency-table .currency-table--title {
@@ -380,7 +380,7 @@ main {
   overflow-x: scroll;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
-  margin-right: 15px;
+  margin: 0 15px;
 }
 .plans-container--card {
   position: relative;
